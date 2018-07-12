@@ -19,5 +19,5 @@ Then the program removes 55 squares at random(using utils.Random),then uses the 
 The program then tests that there is likely only one solution to the game.  
 
 
-To compile: javac *.java
+To compile: javac *.java  
 To run: java Main
