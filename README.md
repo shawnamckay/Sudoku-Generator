@@ -17,3 +17,7 @@ Then the program removes 55 squares at random(using utils.Random),then uses the 
   that the board is still solvable every time it removes a square.  
 
 The program then tests that there is likely only one solution to the game.  
+
+
+To compile: javac *.java
+To run: java Main
